@@ -1,4 +1,4 @@
-#  Problème de Transport — Recherche Opérationnelle
+#  Problème de Transport - Recherche Opérationnelle
 
 Implémentation des algorithmes de résolution du problème de transport en Python.
 
